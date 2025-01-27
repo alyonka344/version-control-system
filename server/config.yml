@@ -1,0 +1,10 @@
+wallet: "/mnt/c/Users/User/Desktop/lab/web3/frostfs-aio/wallets/wallet1.json"
+
+
+password: ""
+rpc_endpoint: "http://localhost:30333"
+rpc_endpoint_ws: "ws://localhost:30333/ws"
+storage_node: "localhost:8080"
+storage_container: "E9jjWkF9D2TWcQ4oN5npzoPwN6VcbYbL2hQ5zh5hfS66"
+contract_hash: "cfaf83256b183e1d80eda2ef71b84d23cd587ecf"
+listen_address: ":5555"
